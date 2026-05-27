@@ -93,21 +93,12 @@ http://localhost/expense-tracker
 
 # Screenshots
 
-## Home Page
+![Home Page](screenshots/ss1.png)
+![Home Page](screenshots/ss2.png)
+![Home Page](screenshots/ss3.png)
+![Home Page](screenshots/ss4.png)
+![Home Page](screenshots/ss5.png)
 
-Add screenshot here.
-
----
-
-## Expense List
-
-Add screenshot here.
-
----
-
-## Database Table
-
-Add screenshot here.
 
 ---
 
